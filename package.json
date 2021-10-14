@@ -1,0 +1,25 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Practice TDD with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngvuong/Jest-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngvuong/Jest-Testing/issues"
+  },
+  "homepage": "https://github.com/ngvuong/Jest-Testing#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.8",
+    "jest": "^27.2.5"
+  }
+}
